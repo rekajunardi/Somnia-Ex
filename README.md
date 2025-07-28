@@ -8,7 +8,7 @@
 | Auto Swap        | Swap token menggunakan smart contract (real transaction)              |
 | Auto Transfer    | Kirim token ke wallet random                                           |
 | Multi Wallet     | Bisa jalankan banyak wallet sekaligus                                  |
-| TX Explorer Link | Tampilkan link TX langsung ke explorer (https://testnet.pharosscan.xyz) |
+| TX Explorer Link | Tampilkan link TX langsung ke explorer (https://http://shannon-explorer.somnia.network/) |
 
 ---
 
@@ -34,7 +34,7 @@ Download & install dari: [https://www.python.org/downloads/](https://www.python.
 ### 2. Install Modul Wajib
 
 ```
-git clone https://github.com/rekajunardi/SOMNIA.git
+git clone https://github.com/rekajunardi/Somnia-Ex.git
 ```
 ```
 cd Somnia-Ex
