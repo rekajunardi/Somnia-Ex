@@ -3,12 +3,11 @@
 
 ## FITUR UTAMA
 
-| Fitur              | Keterangan                                                             |
-|--------------------|------------------------------------------------------------------------|
-| Auto Swap        | Swap token menggunakan smart contract (real transaction)              |
-| Auto Transfer    | Kirim token ke wallet random                                           |
-| Multi Wallet     | Bisa jalankan banyak wallet sekaligus                                  |
-| TX Explorer Link | Tampilkan link TX langsung ke explorer (https://http://shannon-explorer.somnia.network/) |
+| Fitur              | Keterangan                                                                               |
+|--------------------|------------------------------------------------------------------------------------------|
+| Auto Swap          | Swap token menggunakan smart contract (real transaction)                                 |
+| Multi Wallet       | Bisa jalankan banyak wallet sekaligus                                                    |
+| TX Explorer Link   | Tampilkan link TX langsung ke explorer (https://http://shannon-explorer.somnia.network/) |
 
 ---
 
