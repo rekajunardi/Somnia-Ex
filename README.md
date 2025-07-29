@@ -7,7 +7,7 @@
 |--------------------|------------------------------------------------------------------------------------------|
 | Auto Swap          | Swap token menggunakan smart contract (real transaction)                                 |
 | Multi Wallet       | Bisa jalankan banyak wallet sekaligus                                                    |
-| TX Explorer Link   | Tampilkan link TX langsung ke explorer (https://http://shannon-explorer.somnia.network/) |
+| TX Explorer        | Tampilkan link TX langsung ke explorer (https://http://shannon-explorer.somnia.network/) |
 
 ---
 
@@ -17,7 +17,6 @@
 |-------------------|-------------------------------------------------------------------------|
 | `bot.py`          | File utama bot, sudah all-in-one                                        |
 | `privateKeys.txt` | List private key (1 wallet per baris)                                   |
-| `abi.txt`         | ABI smart contract (token, router, staking)                             |
 
 ---
 
