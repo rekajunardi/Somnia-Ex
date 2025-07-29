@@ -53,3 +53,4 @@ Semua transaksi menggunakan testnet, aman & tanpa biaya
 Transaksi dilakukan langsung ke smart contract menggunakan Web3 
 
 Script ini 100% open-source, dikembangkan bersama komunitas
+
