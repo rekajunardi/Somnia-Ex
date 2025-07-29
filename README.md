@@ -41,6 +41,9 @@ cd Somnia-Ex
 pip install web3 eth-account requests colorama rich
 ```
 ```
+npm install
+```
+```
 python bot.py
 ```
 
