@@ -7,7 +7,7 @@
 |--------------------|------------------------------------------------------------------------------------------|
 | Auto Swap          | Swap token menggunakan smart contract (real transaction)                                 |
 | Multi Wallet       | Bisa jalankan banyak wallet sekaligus                                                    |
-| TX Explorer        | Tampilkan link TX langsung ke explorer (https://http://shannon-explorer.somnia.network/) |
+| TX Explorer          | Tampilkan link TX langsung ke explorer (https://http://shannon-explorer.somnia.network/) |
 
 ---
 
